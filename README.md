@@ -284,6 +284,13 @@ Além disso, ficou evidente que a qualidade das respostas depende diretamente da
 
 ---
 
+## 🔗 Recursos
+
+- NotebookLM: https://notebooklm.google.com/notebook/d5687768-a8af-41e9-ac9e-64930a84a62e
+- GitHub: este repositório
+
+---
+
 # 👩‍💻 Autora
 
 **Priscila Izabel Santos**
